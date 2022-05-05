@@ -11,3 +11,7 @@
 2. Procesador AMD FX-8320E Eight Core Processor 3.22 Ghz
 3. RAM 8 GB
 Este es el repositorio de la clase de Bioinformática semestre 2022-I.
+
+## EJECUCIÓN
+
+En este repositorio se tiene almacenado las tareas, la data y los exámenes de la clase de Bioinformática.
